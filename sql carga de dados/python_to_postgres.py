@@ -4,7 +4,7 @@ import psycopg2.extras
 hostname = 'localhost'
 database = 'demo'
 username = 'postgres'
-pwd = 9630
+pwd = senha
 post_id = 5432
 conn = None
 ##cur = None
